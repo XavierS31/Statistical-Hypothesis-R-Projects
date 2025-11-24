@@ -1,4 +1,4 @@
-# Statistical Hypothesis Using R Projects
+# Statistical Testing Using R Projects
 ## STA4163 – Statistical Methods II  
 ## Project 1 & Project 2 Repository  
 ### University of Central Florida (Fall 2025)
